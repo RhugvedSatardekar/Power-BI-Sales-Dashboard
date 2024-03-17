@@ -4,7 +4,7 @@
 
 ### Welcome to My Power BI Sales Dashboard Project
 
-##Project Overview
+## Project Overview
 
 In this project, I aim to provide comprehensive insights into sales, profit, orders, profit margin, and various comparisons using Power BI. The primary objective of this sales dashboard is to analyze key performance indicators and trends, enabling stakeholders to make data-driven decisions effectively.
 
