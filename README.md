@@ -90,18 +90,6 @@ for creating new column following DAX expression was written;
 
 
 
-✨ Conclusion of Power BI Sales Dashboard Project ✨
-
-This Power BI Sales Dashboard project aims to empower stakeholders with actionable insights and facilitate informed decision-making. Feel free to explore the dashboard and interact with the data using the provided slicers for a personalized analysis experience.
-
-### Based on my analysis:
-
-Sales saw a decrease of over 10% compared to the previous year.
-There was a noticeable drop in sales for the top 7 products.
-Specific customers contributed to the decline in sales.
-The Export channel showed a higher profit margin.
-These insights and more were derived from the comprehensive Power BI Sales Dashboard project I successfully executed.
-
 
 
 
@@ -133,3 +121,15 @@ These insights and more were derived from the comprehensive Power BI Sales Dashb
  ## - Publishing an app along with multiple content of workspace with underlying Dataset to entire organization
  ![image](https://github.com/RhugvedSatardekar/Sales-Dashboard/assets/163725285/70365fc3-2fa3-45f1-abbe-1c0a73b897bd)
 
+
+✨ Conclusion of Power BI Sales Dashboard Project ✨
+
+This Power BI Sales Dashboard project aims to empower stakeholders with actionable insights and facilitate informed decision-making. Feel free to explore the dashboard and interact with the data using the provided slicers for a personalized analysis experience.
+
+### Based on my analysis:
+
+Sales saw a decrease of over 10% compared to the previous year.
+There was a noticeable drop in sales for the top 7 products.
+Specific customers contributed to the decline in sales.
+The Export channel showed a higher profit margin.
+These insights and more were derived from the comprehensive Power BI Sales Dashboard project I successfully executed.
