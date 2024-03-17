@@ -92,7 +92,7 @@ These insights and more were derived from the comprehensive Power BI Sales Dashb
 # Snapshot of On-Hover custom report tooltip (Power BI Service)
 ![image](https://github.com/RhugvedSatardekar/Sales-Dashboard/assets/163725285/35697f70-2151-4f9b-a504-9f57d5df1a2c)
 
-# Snapshot of Data Model (Power BI Desktop)     
+# Snapshot of Star Schema Data Model (Power BI Desktop)     
  ![image](https://github.com/RhugvedSatardekar/Sales-Dashboard/assets/163725285/f2e65570-a15d-403f-b959-cded87c23b01)
 
 
